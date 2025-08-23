@@ -21,7 +21,75 @@ professionals make better decisions and build smarter applications.
 ## 📸 Media
 
 -   🖼️ **Screenshots:**\
+
+<details>
+    <summary>Screenshots</summary>
+    <table>
+        <tbody>
+            <tr>
+                <td><img src="./img/img-1.png" alt="image"></td>
+                <td><img src="./img/img-2.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-3.png" alt="image"></td>
+                <td><img src="./img/img-4.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-5.png" alt="image"></td>
+                <td><img src="./img/img-6.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-7.png" alt="image"></td>
+                <td><img src="./img/img-8.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-9.png" alt="image"></td>
+                <td><img src="./img/img-10.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-11.png" alt="image"></td>
+                <td><img src="./img/img-12.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-13.png" alt="image"></td>
+                <td><img src="./img/img-14.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-15.png" alt="image"></td>
+                <td><img src="./img/img-16.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-17.png" alt="image"></td>
+                <td><img src="./img/img-18.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-19.png" alt="image"></td>
+                <td><img src="./img/img-20.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-21.png" alt="image"></td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
 -   📷 **Original photos:**\
+
+<details>
+    <summary>Screenshots</summary>
+    <table>
+        <tbody>
+            <tr>
+                <td><img src="./img/img-22.jpg" alt="image"></td>
+                <td><img src="./img/img-23.jpg" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-24.png" alt="image"></td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
 -   🎥 **Screen recording:** 
 
 ------------------------------------------------------------------------
