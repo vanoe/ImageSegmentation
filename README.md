@@ -92,6 +92,38 @@ professionals make better decisions and build smarter applications.
 
 -   🎥 **Screen recording:** 
 
+<details>
+    <summary>Screen recording</summary>
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/9fd51893-a2bb-44e8-83f7-72a595ef1da9" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/d299b0f2-0cc8-4a4b-b354-06636892f32e" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/148ce412-a41a-420d-9753-d554cbcbab1a" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+                <td>
+                    <video src="https://github.com/user-attachments/assets/144aec35-9934-40be-a795-b114a8682a16" controls preload>
+                        Your browser does not support the video tag.
+                    </video>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
 ------------------------------------------------------------------------
 
 ## 📜 Full Description
