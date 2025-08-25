@@ -76,7 +76,7 @@ professionals make better decisions and build smarter applications.
 -   📷 **Original photos:**\
 
 <details>
-    <summary>Screenshots</summary>
+    <summary>Original photos</summary>
     <table>
         <tbody>
             <tr>
